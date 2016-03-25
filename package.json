@@ -1,0 +1,19 @@
+{
+  "name": "kaleidoscope",
+  "version": "1.0.0",
+  "description": "Kaleidoscope",
+  "main": "scripts/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imuyip/kaleidoscope.git"
+  },
+  "author": "Piyumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imuyip/kaleidoscope/issues"
+  },
+  "homepage": "https://github.com/imuyip/kaleidoscope#readme",
+  "dependencies": {
+    "d3": "^3.5.16"
+  }
+}
