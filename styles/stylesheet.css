@@ -1,3 +1,7 @@
 body, div {
-  margin:0px;
+  padding:8px;
+}
+
+svg {
+  background-color: grey;
 }
